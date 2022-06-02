@@ -1,0 +1,5 @@
+Steps to Run Hangman Game:
+1. Run JavaFinalHangmanProjectServer.java
+	- Server must be started before Clients can run sucessfully
+2. Run JavaFinalHangmanProjectClient.java
+	- This will be the program that each player of the game will run
